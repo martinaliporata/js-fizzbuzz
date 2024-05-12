@@ -19,3 +19,5 @@ Partirà da 0, arriverà a 100, incrementando.
 Dopodiché creerò tre condizioni if per capire quando assegnare Fizz, Buzz e FizzBuzz.
 
 Inserendo le variabili in ordine 3,5 e 3e5 non funziona perché, funzionando a cascata, è ovvio che l'ultimo valore non verrà mai preso essendo già incluso nei primi due. Inserisco quindi la varibaile più "generale" e poi le due più specifiche.
+
+Aggiungo ul in html con classe list; lo selezione in js con query selector e poi creo direttamente in js gli elementi di ul, li, con stili differenti. Per farlo, creo prima una variabile const che che vado ad aggiungere all'html tramite innerHTML.
