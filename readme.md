@@ -17,3 +17,5 @@ Per i numeri che sono sia multipli di 3 che di 5 stampi “FizzBuzz”.
 Creo quindi un ciclo for creando una variabile I.
 Partirà da 0, arriverà a 100, incrementando.
 Dopodiché creerò tre condizioni if per capire quando assegnare Fizz, Buzz e FizzBuzz.
+
+Inserendo le variabili in ordine 3,5 e 3e5 non funziona perché, funzionando a cascata, è ovvio che l'ultimo valore non verrà mai preso essendo già incluso nei primi due.
